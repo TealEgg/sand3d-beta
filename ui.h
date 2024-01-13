@@ -1565,6 +1565,8 @@ namespace ui
 		EnableMainMenu(true);
 	}
 
+	// This is a new commit added
+
 	void DrawUI()
 	{
 		//solids[0].ChangePosition(corner::middle, 100 * sin(game::currentTime), 0);
